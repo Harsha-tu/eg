@@ -1,0 +1,10 @@
+h1{
+    font-size: 20px;
+    font-style: italic;
+    background-color: blue;
+}
+p{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+}
